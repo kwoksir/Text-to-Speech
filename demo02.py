@@ -9,4 +9,3 @@ engine.setProperty("voice",voices[1].id)
 engine.say(text)
 # play the speech
 engine.runAndWait()
-print("Finish")
